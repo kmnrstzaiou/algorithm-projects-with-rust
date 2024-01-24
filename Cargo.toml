@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "sorting-and-searching",
+    "problem-solving-with-recursion",
+    "public-key-cryptography", "dynamic-programming",
+]
+resolver = "2"
